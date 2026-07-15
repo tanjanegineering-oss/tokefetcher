@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='ghbmnnjooekpmoecnnnilnnbdlolhkhi'>
-    <updatecheck codebase='https://github.com/tanjanegineering-oss/tokefetcher/raw/1d4595d2ffcd8d80f736782c196a42033dec948e/min.crx' version='1.0.0' />
+  <app appid='kblceeegceohgckiocanggdcmagklgca'>
+    <updatecheck codebase='https://github.com/tanjanegineering-oss/tokefetcher/raw/refs/heads/main/m.crx' version='1.0' />
   </app>
 </gupdate>
